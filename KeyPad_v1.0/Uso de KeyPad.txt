@@ -1,0 +1,4 @@
+Uso del teclado 3x4
+
+Como se indica en la imagen se conectan a entradas digitales, las cuales se indicaran
+en la matriz indicada en la variable char keys[rowsCount][columsCount].
